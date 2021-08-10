@@ -1,0 +1,3 @@
+# Assignment 2: Naive Bayes and KNN using scikit-learn
+
+In this assignment you'll implement the Naive Bayes and KNN classifier to classify patients as either having or not having diabetic retinopathy. For this task we'll be using the same Diabetic Retinopathy data set which was used in the previous assignment on decision trees. You can find additional details about the dataset [here](http://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set).
