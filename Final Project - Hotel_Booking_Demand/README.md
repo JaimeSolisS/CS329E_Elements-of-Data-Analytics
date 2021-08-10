@@ -41,6 +41,7 @@ With accuracies above 79%, SVM and ensemble method models could also be relative
 
 To further evaluate the accuracy of this model, we tested it with our test dataset produced through Principal Component Analysis, and display a confusion matrix for further analysis.
 
+<img src="https://github.com/JaimeSolisS/CS329E_Elements-of-Data-Analytics/blob/master/Final%20Project%20-%20Hotel_Booking_Demand/screenshots/confusionMatrix.png?raw=true"/>
 Note: Accuracy scores reported is for the test set, not entire dataset.
 
 Looking at the confusion Matrix we predicted
